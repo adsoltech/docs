@@ -1,1 +1,15 @@
 site_name: AdSol
+site_url: https://adsoltech.github.io
+site_author: Pedro Antonio Benito Rojano
+site_description: "Desalinizadora sostenible por evaporación y condensación con energía solar"
+copyright: "This wiki is licensed under the <a href='https://mit-license.org'>MIT license</a>"
+strict: true
+markdown_extensions:
+    - attr_list
+    - smarty
+    - sane_lists
+    - toc:
+        permalink: "#"
+nav: 
+    - Inicio: index.md
+    - Equipo: equipo.md

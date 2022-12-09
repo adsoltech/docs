@@ -2,7 +2,7 @@
 
 ## Juan José Vallejo Tejero
 
-![Juan José Vallejo Tejero](./img/equipo/juanjo.jpeg)
+![Juan José Vallejo Tejero](./img/equipo/juanjo.jpeg){: style="height:150px;width:150px"}
 
 **Rol**: CEO
 
@@ -10,7 +10,7 @@
 
 ## Wai-Cha Matias Chau Salas
 
-![Wai-Cha Matias Chau Salas](./img/equipo/matias.jpeg)
+![Wai-Cha Matias Chau Salas](./img/equipo/matias.jpeg){: style="height:150px;width:150px"}
 
 **Rol**: CTO
 
@@ -18,7 +18,7 @@
 
 ## Jose María Núñez Trigueros
 
-![Jose María Núñez Trigueros](./img/equipo/josemaria.jpeg)
+![Jose María Núñez Trigueros](./img/equipo/josemaria.jpeg){: style="height:150px;width:150px"}
 
 **Rol**: CTO
 
@@ -26,7 +26,7 @@
 
 ## Cristina González García
 
-![Cristina González García](./img/equipo/cristina.jpeg)
+![Cristina González García](./img/equipo/cristina.jpeg){: style="height:150px;width:150px"}
 
 **Rol**: CFO
 
@@ -34,7 +34,7 @@
 
 ## María Martínez Gómez
 
-![María Martínez Gómez](./img/equipo/maria.jpeg)
+![María Martínez Gómez](./img/equipo/maria.jpeg){: style="height:150px;width:150px"}
 
 **Rol**: CTO
 
@@ -42,7 +42,7 @@
 
 ## Ignacio Colombo León 
 
-![Ignacio Colombo León](./img/equipo/nacho.jpeg)
+![Ignacio Colombo León](./img/equipo/nacho.jpeg){: style="height:150px;width:150px"}
 
 **Rol**: COO
 
@@ -50,7 +50,7 @@
 
 ## Patrick Boyle
 
-![Patrick Boyle](./img/equipo/patrick.jpeg)
+![Patrick Boyle](./img/equipo/patrick.jpeg){: style="height:150px;width:150px"}
 
 **Rol**: CCO
 
@@ -58,7 +58,7 @@
 
 ## Pedro Antonio Benito Rojano
 
-![Pedro Antonio Benito Rojano](./img/equipo/pedro.jpeg)
+![Pedro Antonio Benito Rojano](./img/equipo/pedro.jpeg){: style="height:150px;width:150px"}
 
 **Rol**: IT
 
@@ -66,7 +66,7 @@
 
 ## Alendro Rodrigez Gómez 
 
-![Alendro Rodrigez Gómez](./img/equipo/alejandro.jpeg)
+![Alendro Rodrigez Gómez](./img/equipo/alejandro.jpeg){: style="height:150px;width:150px"}
 
 **Rol**: CEO
 
