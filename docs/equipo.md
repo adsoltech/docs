@@ -64,9 +64,9 @@
 
 **Correo**: pedro.benito@adsol.tech
 
-## Alendro Rodrigez Gómez 
+## Alejandro Rodrígez Gómez 
 
-![Alendro Rodrigez Gómez](./img/equipo/alejandro.jpeg){: style="height:150px;width:150px"}
+![Alejandro Rodrígez Gómez](./img/equipo/alejandro.jpeg){: style="height:150px;width:150px"}
 
 **Rol**: CEO
 
