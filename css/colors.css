@@ -1,0 +1,20 @@
+:root{
+    --primary: rgb(0, 24, 48);
+    --secondary: rgb(48, 168, 144);
+    --tertiary: rgb(240, 120, 24);
+}
+
+.app-background-is-primary{
+    background-color: var(--primary);
+    color: white;
+}
+
+.app-background-is-secondary{
+    background-color: var(--secondary);
+    color: white;
+}
+
+.app-background-is-tertiary{
+    background-color: var(--tertiary);
+    color: white;
+}
