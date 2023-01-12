@@ -1,0 +1,123 @@
+# Hexicon 
+
+## ¿Qué hace?
+
+Despliegue de aerogeneradores en el mar.
+
+## ¿Dónde está?
+
+Tiene aerogeneradores en Europa, Africa, Asia y Norte América. Es decir en casi todo el mundo.
+
+## ¿Qué proyectos tiene?
+
+Se pueden consultar en la [web](https://www.hexicongroup.com/projects/).
+
+Los proyecto europeos son:
+
+- AvenHexicon en Italia. ~3000MW.
+- TwinHub en Inglaterra.
+- [WunderHexicon](https://www.wunderhexicon.es/) en la Península Ibérica.
+
+## Contacto
+
+### Hexicon 
+
+Puede consultarse en la [web](https://www.hexicongroup.com/contact/).
+
+Teléfono: +46 708 88 05 02
+Email: info@hexicongroup.com / jonna.holmgren@hexicongroup.com
+
+### WunderHexicon 
+
+Puede consultarse en la [web](https://www.wunderhexicon.es/contact-us).
+
+Teléfono: +34 928 133 367
+Email: info@wunderhexicon.com
+
+## Análisis externo
+
+### Aerogeneradores (en general)
+
+**Amenazas**: 
+
+- **La energía nuclear es múcho más barata y produce mucha más energía. La energía nuclear está en auge.** _Pero el hidrógeno se vende mucho más caro que la energía_.
+- Solo ciertas zonas donde corra el viento frecuentemente son aptas/rentables para instalar aerogeneradores.
+- La obtención de energía es irregular, ya que depende del viento.
+- Hay epocas del año que suele hacer menos viento
+- Hace falta mucho terreno.
+- Se suelen instalar lejos de las ciudades, equiere mucho cableado para transportar la energía. A más distancia más energía se pierde en el transporte por la resistencia del cable. 
+- Se producen muchas muertes de pájaros al chocar con las aspas. 
+
+**Oportunidades**:
+
+- Estamos en una crisis energética.
+- Es energía renovable.
+- Hay muchas ayudas para el desarrollor de energías renovables.
+- **Produce directamente energía eléctrica.** _Se puede hacer electrolisis_.
+- El sistema es simple.
+- La instalación es barata en comparación con la de otros tipos de energía (ej: nuclear, hidráulica). 
+- Hay mucho terreno afueras de las ciudades muy barato.
+
+### Aerogeneradores marinos 
+
+**Amenazas**:
+
+- El agua y humedad pueden llegar a producir algún fallo eléctrico.
+- La sal y humedad pueden deteriorar los materiales rápidamente.
+- Un fuerte oleaje puede llegar a tumbar la plataforma.  
+- Almacenar la energía requeriría de baterías muy grandes, caras y pesadas, además de tener que descargarla o cambiarla cada vez que se llene.
+- Enviar la energía con un cable requiere kilometros de cable. Este debe estar bien protegido para evitar que el cable se rompa o deteriore.
+- Los aerogeneradores terrestres pueden obtener más energía por ser de mayor tamaño, lo que se traduce a un precio más competitivo.
+- La regulación de espacios marítimos de algunos países pueden no permitir o dificultar el uso de estos espacios
+- Necesita de cierta profundidad, por lo que no se puede instalar demasiado cerca de la costa. 
+- Puede ser un obstáculo para embarcaciones. Debe estar bien señalizada. 
+- Puede matar a aves marinas al chocar con las aspas.
+
+**Oportunidades**: 
+
+- El entorno marítimo está en gran parte desaprovechado
+- Puede ser muy barato.
+- **Es algo innovador y puede contar con ayudas de I+D.** _Si se une con una desaladora es súper innovador, puede tener mejores ayudas_. 
+- **Junto a un sistema de desalinización de agua se puege generar Hidrógeno, que se pude vender a muy buen precio.** _ADSOL puede crear una desalador adaptada a la plataforma_. 
+- En el mar suele hacer viento y de forma maś regular que en tierra al no haber obstáculos.
+
+## Análisis DAFO asociación HEXICON+ADSOL
+
+**Debilidades**:
+
+- Las instalaciones se suelen en mar abierto, es decir, lejos de la costa.
+- El dieño actual de TwinWind no tiene baterías.
+- Para hacer electrolisis se encesita agua y electricidad. Lo que se traduce en sol y viento al mismo tiempo.
+- Puede que haya que almacenar energía o agua para hacer la electrolísis si no hay sol y viento al mismo tiempo.
+- Puede que el aerogenerador de sombra a la desaladora. - Al orientar la plataforma para que el aerogenerador esté perpendicular al viento pude que no sea la posición optima para la desaladora. Y viceversa.
+- Almacenar el hidrógeno pude ser prácticamente complicado, ya que habría que comprimirlo y mantenerlo a gran presión para mantenerlo en estado líquido. Además de tener que recogerlo/vaciarlo cada vez que se llene.
+- Puede ser complicado deplegar una tubería hasta la costa.
+- ADSOL todavía no tiene MPV.
+
+**Amenazas**:
+
+- Hay grandes industrias que generan hidrógeno a en grandes cantidades.
+
+**Fortalezas**:
+- Hexicon tiene permisos para desplegar las instalaciones en muchas ubicaciones alrededor del mundo.
+- Hexicon tiene patente.
+- ADSOL tiene patente. 
+- Las plataformas de TwinWind no vuelcan.
+- Las plataformas de TwinWind son lo suficientemente grandes para poder instalar una desaladora ADSOL de gran producción.
+- La plataforma puede rotar libremente.
+- Al disponer de energía eléctrica no hace falta instalar paneles solares en el diseño de ADSOL. Cualquier requerimiento energético (ej: bombeo) si hiciese falta se obtiene de los aerogeneradores. 
+- Hexicon tiene más de una década de experiencia. 
+- No necesita de sumistro de agua.
+- No necesita de suministro de energía.
+- El diseño es simple.
+- La infraestructura no es costosa (respecto a los demás métodos). 
+- El aerogenrador ya está funcionando, solo hay que acoplar la desaladora en la plataforma.
+- Podrían generarse cientos de kilos de hidrógeno diariamente. Eso significaría miles de Euros al día (con el precio actual 14Eur/Kg, y suponiendo 100kg/Día: 14Eur/Kg * 100kg/Día = 1400Eur/Día. 
+
+**Oportunidades**: 
+- Es algo muy innovador por lo que puede contar buenas subvenciónes.
+- La electrólisis es el método más sostenible de obtención de Hidrógeno. El 95% se obtiene de conbustibles fósiles, y la otra forma de obtención de Hidrógeno sostenible es la pyrolisis, que usa metano, y que es dificil de aislar. 
+- El hidrógeno se vende a buen precio, y cada año aumenta. Ahoramismo alrededor de 14EUR/Kg.
+- El hidrógeno es utilizado por muchas industrias y cada vez más se está utilizando más.
+- Las centrales nucreares por fisión, que están todavía en desarrollo, será la fuente de energía más rentable, usan hidrógeno.
+
