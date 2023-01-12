@@ -13,3 +13,5 @@ markdown_extensions:
 nav: 
     - Inicio: index.md
     - Equipo: equipo.md
+    - Análisis: 
+      - Hexicon : hexicon.md
